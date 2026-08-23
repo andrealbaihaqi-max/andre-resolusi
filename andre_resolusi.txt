@@ -2,3 +2,4 @@ resolusi:
 - saya ingin konsisten belajar dan eksplore tentang dunia IT
 - saya ingin membuat suatu platform untuk manage keuangan saya
 - Tambah heula atuh
+- fundamental data struktur
