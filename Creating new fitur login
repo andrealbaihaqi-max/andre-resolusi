@@ -1,6 +1,8 @@
 Rencana yang ingin membuat fitur login 
 - Language javascript dengan fitur yang modern 
  * menambahkan ES6 javascript
+ * vue
 - framework PHP
+ * laravel
 - New request
 - test
