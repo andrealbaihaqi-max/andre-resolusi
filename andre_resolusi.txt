@@ -3,3 +3,4 @@ resolusi:
 - saya ingin membuat suatu platform untuk manage keuangan saya
 - Tambah heula atuh
 - fundamental data struktur
+- edit
