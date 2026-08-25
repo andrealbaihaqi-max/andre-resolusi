@@ -1,5 +1,4 @@
-
-Rencana fitur lms
+Rencana fitur lms: 
 
 - javascript
  * ES6
